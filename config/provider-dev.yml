@@ -9,5 +9,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 provider:
   user:
-    name: 哈尔滨1
-    age: 991
+    name: 哈尔滨
+    age: 99
